@@ -10,7 +10,6 @@ import { MODAL_CLOSE_SEC } from './config.js';
 import 'core-js/stable'; // polyfill eveything
 import 'regenerator-runtime/runtime'; //polyfiling async awaite
 import { async } from 'regenerator-runtime';
-import paginationView from './views/paginationView.js';
 
 if (module.hot) {
   module.hot.accept();

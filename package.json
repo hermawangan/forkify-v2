@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@parcel/transformer-image": "^2.0.0-rc.0",
     "@parcel/transformer-sass": "^2.0.0-nightly.646",
     "parcel": "^2.0.0-nightly.644",
     "sass": "^1.32.8"
